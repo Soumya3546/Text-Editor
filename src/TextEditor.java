@@ -13,7 +13,7 @@ public class TextEditor extends JFrame implements ActionListener {
     private File currentFile;
 
     public TextEditor() {
-        setTitle("Notepad");
+        setTitle("Note To Be Noted");
         setSize(800, 650);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
